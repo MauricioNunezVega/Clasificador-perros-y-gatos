@@ -1,6 +1,3 @@
-# Clasificador-perros-y-gatos
-Clasificador para perros y gatos, uso de Machine Learning en Python
-
 ## IMPORT PYTHON
 * import tensorflow as tf
 * import tensorflow_datasets as tfds
